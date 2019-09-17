@@ -17,7 +17,7 @@
 	},
 	"repository": {
 		"type": "git",
-		"url": "https://github.com/Product-Live/eslint-config-typescript.git"
+		"url": "git@github.com:Product-Live/eslint-config-typescript.git"
 	},
 	"engines": {
 		"node": ">= 0.10.0"
