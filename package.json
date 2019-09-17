@@ -13,18 +13,18 @@
 		"eslint": "^5.11.1",
 		"@typescript-eslint/eslint-plugin": "^2.0.0",
 		"@typescript-eslint/parser": "^2.0.0",
-		"eslint-config-basic": "git+https://git@github.com/anzerr/eslintrc.git"
+		"eslint-config-basic": "git+https://git@github.com/Product-Live/eslintrc.git"
 	},
 	"repository": {
 		"type": "git",
-		"url": "git@github.com:anzerr/eslint-config-typescript.git"
+		"url": "https://github.com/Product-Live/eslint-config-typescript.git"
 	},
 	"engines": {
 		"node": ">= 0.10.0"
 	},
 	"types": "index.d.ts",
 	"bugs": {
-		"url": "https://github.com/anzerr/eslint-config-typescript/issues"
+		"url": "https://github.com/Product-Live/eslint-config-typescript/issues"
 	},
-	"homepage": "https://github.com/anzerr/eslint-config-typescript#readme"
+	"homepage": "https://github.com/Product-Live/eslint-config-typescript#readme"
 }
